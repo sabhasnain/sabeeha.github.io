@@ -1,3 +1,3 @@
-About Me: Your current role (e.g., PhD Candidate, Lead Researcher), institution, and core research questions.
-Research Interests: Bullet points with keywords (e.g., Computer Vision, Natural Language Processing, Computational Biology).
+About Me: I am an Assistant Professor at the Center for Life Sciences, Mahindra University.
+Research Interests: My research interest lies in the broad area of computational biology/Biophysics.
 Selected Publications: Format your citations clearly and link directly to the papers or PDFs.
